@@ -1,0 +1,33 @@
+﻿  Final.cpp
+C:\Users\gerar\OneDrive\Documentos\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\include\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+C:\Users\gerar\OneDrive\Documentos\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\include\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gerar\OneDrive\Documentos\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\include\modelAnim.h(520,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gerar\OneDrive\Documentos\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\Final.cpp(472,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gerar\OneDrive\Documentos\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\Final.cpp(473,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gerar\OneDrive\Documentos\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\Final.cpp(477,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gerar\OneDrive\Documentos\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\Final.cpp(478,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gerar\OneDrive\Documentos\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\Final.cpp(480,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gerar\OneDrive\Documentos\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\Final.cpp(481,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gerar\OneDrive\Documentos\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\Final.cpp(489,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  glad.c
+  Previous IPDB not found, fall back to full compilation.
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRTD' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Generando código
+  All 1241 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+glfw3.lib(context.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(context.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(init.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(init.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(input.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(input.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(monitor.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(monitor.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(vulkan.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(vulkan.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(window.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(window.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_init.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_init.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_joystick.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_joystick.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_monitor.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_monitor.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_time.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_time.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_thread.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_thread.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_window.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_window.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(wgl_context.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(wgl_context.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(egl_context.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(egl_context.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(osmesa_context.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(osmesa_context.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+  316037837_Proyecto2_Gpo5.vcxproj -> C:\Users\gerar\OneDrive\Documentos\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\Release\316037837_Proyecto2_Gpo5.exe

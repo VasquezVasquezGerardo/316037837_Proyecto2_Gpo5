@@ -1,0 +1,12 @@
+﻿  Final.cpp
+C:\Users\gerar\OneDrive\Documentos\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\include\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+C:\Users\gerar\OneDrive\Documentos\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\include\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gerar\OneDrive\Documentos\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\include\modelAnim.h(520,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gerar\OneDrive\Documentos\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\Final.cpp(472,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gerar\OneDrive\Documentos\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\Final.cpp(473,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gerar\OneDrive\Documentos\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\Final.cpp(477,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gerar\OneDrive\Documentos\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\Final.cpp(478,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gerar\OneDrive\Documentos\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\Final.cpp(480,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gerar\OneDrive\Documentos\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\Final.cpp(481,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gerar\OneDrive\Documentos\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\Final.cpp(489,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  316037837_Proyecto2_Gpo5.vcxproj -> C:\Users\gerar\OneDrive\Documentos\316037837_Proyecto2_Gpo5\316037837_Proyecto2_Gpo5\Debug\316037837_Proyecto2_Gpo5.exe
